@@ -64,7 +64,7 @@ NOTE: To use the logo you need to change the ascii source in line 743 to where y
 
 NOTE: Same as Bejkon 2 but line 741
 
-[Kremfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
+[Remfetch](https://github.com/Chick2D/neofetch-themes/tree/main/normal/remfetch)
 ---
 ![](https://cdn.discordapp.com/attachments/883138437413220412/1002653085925122088/screenshot.png)
 
@@ -133,6 +133,10 @@ Fun fact: This is called af++ or AxylFetch++ because this was actually based on 
 ---
 ![](https://github.com/TanbinIslam43/mydotfiles/blob/main/.config/neofetch/screenshot.png)
 
+[MinecraftFetch](https://github.com/ignxcy/neofetch-themes/blob/main/small/minecraftfetch/config.conf)
+---
+![](https://i.imgur.com/iA3Bors.png)
+
 ### [FAQs](https://github.com/Chick2D/neofetch-themes/wiki/FAQs)
 
 ### Installation 
@@ -166,12 +170,12 @@ in your preferred folder.
 
 3. Run 
 ```bash
-mv neofetch-themes/<folder>/<file> ~/.config/neofetch/config.conf
+cat neofetch-themes/<folder>/<file> > ~/.config/neofetch/config.conf
 ```
 where `<folder>` is the section in this readme, while `<file>` is the file name of the config of this theme.
 > For example: If you want papirus, it'd be
 ```
-mv neofetch-themes/normal/papirus.conf ~/.config/neofetch/config.conf
+cat neofetch-themes/normal/papirus.conf > ~/.config/neofetch/config.conf
 ```
 
 </details>
@@ -185,8 +189,6 @@ WM: bspwm \
 Terminal: alacritty \
 Neofetch Theme: axylfetch
 
-The latter is more so a suggestion so it brings more awareness to the project easier than a must unlike the former
-
 To add your own theme send a pull request containing your file in the appropriate directory,
 a screenshot in the readme and it's name, you can understand the syntax yourself its very easy
 
@@ -195,6 +197,6 @@ Support
 
 I'd really appreciate any kind of support for me
 
-I'd prefer if I got gifted an Amazon or a Cubelelo giftcard, just message me on [Discord](https://discord.gg/tuWnYReXbS) or [Reddit](https://www.reddit.com/user/Chicki2D/)
+BTC: `bc1qk3ejh9t0lw344z8yn34pur4d4dqne5dpcnmfk7`
 
-BTC: `1HffvknYXCbLsqiWHtUUCVKbkWVLKxdDim`
+Or dm me on [Reddit](https://www.reddit.com/user/Chicki2D/)
